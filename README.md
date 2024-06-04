@@ -20,8 +20,7 @@
 
 
 ### ✍️ Random Quote
-> ![Random Life Quote](https://quotes-github-readme.vercel.app/api?type=random&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=Tran1595&icon=0&color=0)](https://visitcount.itsvg.in)
 
