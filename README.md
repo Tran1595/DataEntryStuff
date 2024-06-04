@@ -10,9 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tran1595&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## My YouTube Channel
-<a href="[YouTube_URL](https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan)">
-    <img src="thumbnail_URL" alt="Thumbnail">
+<a href="https://www.youtube.com/watch?v=DWFs6aqknqw&ab_channel=MagdelineHuang">
+    <img src="https://img.youtube.com/vi/DWFs6aqknqw/maxresdefault.jpg" alt="Thumbnail">
 </a>
+
 
 
 
