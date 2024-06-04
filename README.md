@@ -9,6 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tran1595&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tran1595&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## My YouTube Channel
+[Watch My Awesome Video](https://www.youtube.com/watch?v=v=l-6i0F9kIEA&ab_channel=Tengchan)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
