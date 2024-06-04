@@ -11,7 +11,7 @@
 
 ## My YouTube Videos
 <strong>Productivity Hack! Copy and Paste more efficiently with AHK (Autohotkey</strong>
-]<a href="https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan">
+<a href="https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan">
     <img src="https://img.youtube.com/vi/l-6i0F9kIEA/maxresdefault.jpg" alt="Thumbnail">
 </a>
 
