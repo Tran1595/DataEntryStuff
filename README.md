@@ -14,14 +14,13 @@
 <a href="https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan">
     <img src="https://img.youtube.com/vi/l-6i0F9kIEA/maxresdefault.jpg" alt="Thumbnail">
 </a>
-[![My Awesome Video](l-6i0F9kIEA.jpg)](https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan")
 
 
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=life&theme=radical)
+### ✍️ Random Quote
+> ![Random Life Quote](https://quotes-github-readme.vercel.app/api?type=random&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tran1595&icon=0&color=0)](https://visitcount.itsvg.in)
