@@ -14,6 +14,7 @@
 <a href="https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan">
     <img src="https://img.youtube.com/vi/l-6i0F9kIEA/maxresdefault.jpg" alt="Thumbnail">
 </a>
+[![My Awesome Video](l-6i0F9kIEA.jpg)](https://www.youtube.com/watch?v=l-6i0F9kIEA&ab_channel=Tengchan")
 
 
 
