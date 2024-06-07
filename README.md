@@ -6,7 +6,7 @@
 </a>
 
 
-### 2. Youtube Demo - Google Sheet Data Entry Form with AppScript 
+### 2. Youtube Demo - Google Sheet Data Entry Form with AppScript -  [Description](https://github.com/Tran1595/Appscript-Data-Entry-Form-in-Gsheet/tree/main)
 <a href="https://youtu.be/1aITKJuYO2c">
     <img src="https://img.youtube.com/vi/1aITKJuYO2c/maxresdefault.jpg" alt="Thumbnail">
 </a>
